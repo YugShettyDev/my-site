@@ -47,3 +47,36 @@ nav ul {
   height: 2rem;
   color: #A85C5C;
 }
+.hero-content a {
+    border: 1px solid #6B8CAE;
+    color :#6B8CAE;
+    padding : 12px 28px;
+    border-radius: 4px;
+    font-family: 'Inter', 'sans-serif';
+    font-size: 0.9rem;
+    letter-spacing: 2px;
+}
+.hero-content a:hover {
+    background-color: #6B8CAE;
+    color: #13111C;
+}
+#about {
+    padding : 120px 10%;
+    border-top: #2a2520;
+}
+.about-container {
+    display: flex;
+    gap : 80px;
+}
+.about-text {
+    color: #7a7068;
+    flex: 1;
+}
+.about-skills {
+    flex: 1;
+
+}
+.about-skills ul {
+    list-style: none;
+}
+    
