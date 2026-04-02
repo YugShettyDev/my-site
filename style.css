@@ -79,4 +79,52 @@ nav ul {
 .about-skills ul {
     list-style: none;
 }
+#projects {
+    padding: 120px 10%;
+    border-top: 1px solid #2a2520;
+}
+.project-items {
+    padding: 32px 0;
+    border-top: 1px solid #2a2520;
+}
+.project-items span {
+    color :#6B8CAE;
+    font-size: 0.85rem;
+}
+.project-items h3 {
+    margin: 8px 0;
+    font-size: 1.5rem;
+}
+.project-items p {
+    color: #7a7068;
+}
+#contact {
+    padding: 120px 10%;
+    border-top: 1px solid #2a2520;
+}
+#contact p {
+    color: #7a7068;
+    margin-bottom: 16px 0 32px;
+}
+#contact a {
+    border: 1px solid #6B8CAE;
+    color :#6B8CAE;
+    padding : 12px 28px;
+    border-radius: 2px;
+}
+#contact a:hover {
+    background-color: #6B8CAE;
+    color: #13111C;
+}
+footer {
+    text-align: center;
+    padding: 60px 10%;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    gap: 12px;
+    border-top: 1px solid #2a2520;
+}
+
+    
     
